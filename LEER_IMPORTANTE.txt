@@ -1,0 +1,2 @@
+Hola profesor, buenas tardes, soy el estudiante Hugo Castro Leon, le mando en este repositorio el CL1.
+En este examen utilicé SpringBoot ya que me resulto mucho más sencillo a la hora de realizar la prueba, muchas gracias.
